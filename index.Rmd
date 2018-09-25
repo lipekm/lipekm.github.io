@@ -1,5 +1,15 @@
 ---
-title: "My Website"
+title: "About Me"
 ---
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-Hello, Website!
+
+<img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/29792789_1937240342953028_8549641391244661044_n.jpg?_nc_cat=109&oh=aaac261b7e1de2698becfb68eb485955&oe=5C1A91CE" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+My name is Katelyn Lipe and I'm a junior at Appalachian State University. I'm a Public Health major with a minor in Statistics. I work part-time at JCrew as a sales associate. 
+
+I am apart of Alpha Gamma Delta International Fraternity and have served as Communty Service Chair and a part of the 2017-2018 Executive Council. In the Fall of 2018 I participated as an Appol Corps leader, which are guides for freshmen during their first weekend of college. I have been offered an internship with the Hunger and Health Coalition for the 2019 year, but I am serving as a volunteer until then. 
+
+With my degree I hope to obtain a career that would allow me to help people and make an impact. I'm passionate about epidemeology and biostatistics.
+
+

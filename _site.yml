@@ -1,9 +1,17 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Home"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Resume"
+      href: Resume.html
+    - text: "Other"
+      href: Other.html
+  right: 
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/katelyn-lipe-890547162/
+output:
+  html_document:
+    theme: paper
+    highlight: kate
+    css: 'styles.css'
